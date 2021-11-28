@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6s7dF/8cYIoqIi5znOcwUIo4ap7ep/VyZLLQxcNPJ2kmYFWR4gkkLGnWOMQESalsAaXV91XeYpiuax1LH0a+Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ander\\OneDrive\\Área de Trabalho\\PROGRAMAÇÃO ATIVIDADE 1\\AtivProgOrientadaObjetos-main Anderson\\Lista001\\ListaPOO1\\ListaPOO1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
